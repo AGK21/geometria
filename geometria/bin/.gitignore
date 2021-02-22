@@ -1,5 +1,4 @@
-/Circulo.class
-/FiguraGeometrica.class
-/Rectangulo.class
-/Triangulo.class
-/Triangulo_AGK.class
+/geometria/
+/test/
+/CirculoTest.class
+/CirculoTestAGK.class
